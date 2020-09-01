@@ -1,6 +1,6 @@
 ﻿
-# Simple VGG 16 Classifier
->Simple VGG16 classifier using Keras and Streamlit
+# Simple Efficientnet Classifier
+>Simple EffNet classifier using Keras and Streamlit
 
 ## Requirements
 Python 3.x with all `requirements.txt` dependencies installed. To install run:
