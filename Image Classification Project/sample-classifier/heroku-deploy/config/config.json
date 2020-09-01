@@ -1,0 +1,4 @@
+{
+    "class_indices": {"Priora": 0, "Ford Focus": 1, "Samara": 2, "VAZ-2110": 3, "Zhiguli": 4, "Niva": 5, "Kalina": 6, "VAZ-2109": 7, "Volkswagen Passat": 8, "VAZ-21099": 9},
+    "model_weight_path": "model/model_final_b6.h5"
+}
