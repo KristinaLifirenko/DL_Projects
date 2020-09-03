@@ -10,6 +10,7 @@ Python 3.x with all `requirements.txt` dependencies installed. To install run:
 
 ## Model
 Store a training model in the `.heroku-deploy/model` directory.
+https://drive.google.com/drive/folders/17oClW1-R0qg3d50UDNAsUyFRYOzCbD86?usp=sharing
 
 ## Get the Classifier Running
 Make sure to have the images you need to classify in the `./images` directory 
