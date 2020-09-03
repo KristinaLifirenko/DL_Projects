@@ -1,0 +1,7 @@
+streamlit==0.62.0
+numpy==1.16.4
+tensorflow-cpu==2.2.0
+Pillow==7.2.0
+efficientnet==1.0.0
+matplotlib==2.0.0
+keras==2.2.4
