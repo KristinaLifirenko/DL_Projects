@@ -16,6 +16,6 @@ Get the data app running:
     $ streamlit run app.py
 
 ## Result
-You can check app demo examples in ./sample_demo folder
+You can check app demo examples in `./sample_demo` folder
 
 
