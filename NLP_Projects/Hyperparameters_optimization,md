@@ -1,4 +1,4 @@
-## GridSearchCV
+##GridSearchCV
 
 from sklearn.model_selection import GridSearchCV
 
@@ -17,7 +17,7 @@ grid_result = grid.fit(X, y)
 print("Best: %f using %s" % (grid_result.best_score_, grid_result.best_params_))
 print("Execution time: " + str((time.time() - start_time)) + ' ms')
 
-## RandomSearchCV
+##RandomSearchCV
 
 from sklearn.model_selection import RandomizedSearchCV
 
